@@ -16,5 +16,7 @@ namespace Atividade_POO.Views
         {
             InitializeComponent();
         }
+
+        }
     }
 }
