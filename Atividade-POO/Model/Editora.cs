@@ -6,7 +6,20 @@ using System.Threading.Tasks;
 
 namespace Atividade_POO.Model
 {
-    internal class Editora
+    public class Editora
     {
+        public string CNPJ { get; set; }
+        public string Nome { get; set; }
+
+        public Editora(string cnpj, string nome)
+        {
+            CNPJ = cnpj;
+            Nome = nome;
+        }
+
+        public string ObterCnpjNome()
+        {
+            return $"{CNPJ} - {Nome}";
+        }
     }
 }

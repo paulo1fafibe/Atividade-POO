@@ -6,7 +6,21 @@ using System.Threading.Tasks;
 
 namespace Atividade_POO.Model
 {
-    internal class Fornecedor
+    public class Fornecedor
     {
+        public string CNPJ { get; set; }
+        public string Nome { get; set; }
+
+        public Fornecedor(string cnpj, string nome)
+        {
+            CNPJ = cnpj;
+            Nome = nome;
+        }
+
+        
+        public string ObterCnpjNome()
+        {
+            return $"{CNPJ} - {Nome}";
+        }
     }
 }

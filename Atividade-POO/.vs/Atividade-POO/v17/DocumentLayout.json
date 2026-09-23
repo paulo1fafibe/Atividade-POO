@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Atividade-POO\\",
+  "WorkspaceRootPath": "C:\\Users\\Unifafibe\\Documents\\GitHub\\Atividade-POO\\Atividade-POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6AEB4109-EC94-422A-A8E9-DBEE1F801AAD}|Atividade-POO.csproj|c:\\users\\unifafibe\\desktop\\programa\u00E7\u00E3o-orientada-objeto\\atividade-poo\\model\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6AEB4109-EC94-422A-A8E9-DBEE1F801AAD}|Atividade-POO.csproj|C:\\Users\\Unifafibe\\Documents\\GitHub\\Atividade-POO\\Atividade-POO\\model\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AEB4109-EC94-422A-A8E9-DBEE1F801AAD}|Atividade-POO.csproj|solutionrelative:model\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AEB4109-EC94-422A-A8E9-DBEE1F801AAD}|Atividade-POO.csproj|c:\\users\\unifafibe\\desktop\\programa\u00E7\u00E3o-orientada-objeto\\atividade-poo\\model\\editora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6AEB4109-EC94-422A-A8E9-DBEE1F801AAD}|Atividade-POO.csproj|C:\\Users\\Unifafibe\\Documents\\GitHub\\Atividade-POO\\Atividade-POO\\model\\editora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AEB4109-EC94-422A-A8E9-DBEE1F801AAD}|Atividade-POO.csproj|solutionrelative:model\\editora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AEB4109-EC94-422A-A8E9-DBEE1F801AAD}|Atividade-POO.csproj|c:\\users\\unifafibe\\desktop\\programa\u00E7\u00E3o-orientada-objeto\\atividade-poo\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6AEB4109-EC94-422A-A8E9-DBEE1F801AAD}|Atividade-POO.csproj|c:\\users\\unifafibe\\documents\\github\\atividade-poo\\atividade-poo\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AEB4109-EC94-422A-A8E9-DBEE1F801AAD}|Atividade-POO.csproj|solutionrelative:model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AEB4109-EC94-422A-A8E9-DBEE1F801AAD}|Atividade-POO.csproj|c:\\users\\unifafibe\\desktop\\programa\u00E7\u00E3o-orientada-objeto\\atividade-poo\\model\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6AEB4109-EC94-422A-A8E9-DBEE1F801AAD}|Atividade-POO.csproj|C:\\Users\\Unifafibe\\Documents\\GitHub\\Atividade-POO\\Atividade-POO\\model\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AEB4109-EC94-422A-A8E9-DBEE1F801AAD}|Atividade-POO.csproj|solutionrelative:model\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AEB4109-EC94-422A-A8E9-DBEE1F801AAD}|Atividade-POO.csproj|c:\\users\\unifafibe\\desktop\\programa\u00E7\u00E3o-orientada-objeto\\atividade-poo\\views\\frmcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6AEB4109-EC94-422A-A8E9-DBEE1F801AAD}|Atividade-POO.csproj|C:\\Users\\Unifafibe\\Documents\\GitHub\\Atividade-POO\\Atividade-POO\\views\\frmcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6AEB4109-EC94-422A-A8E9-DBEE1F801AAD}|Atividade-POO.csproj|solutionrelative:views\\frmcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AEB4109-EC94-422A-A8E9-DBEE1F801AAD}|Atividade-POO.csproj|c:\\users\\unifafibe\\desktop\\programa\u00E7\u00E3o-orientada-objeto\\atividade-poo\\views\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6AEB4109-EC94-422A-A8E9-DBEE1F801AAD}|Atividade-POO.csproj|C:\\Users\\Unifafibe\\Documents\\GitHub\\Atividade-POO\\Atividade-POO\\views\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6AEB4109-EC94-422A-A8E9-DBEE1F801AAD}|Atividade-POO.csproj|solutionrelative:views\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AEB4109-EC94-422A-A8E9-DBEE1F801AAD}|Atividade-POO.csproj|c:\\users\\unifafibe\\desktop\\programa\u00E7\u00E3o-orientada-objeto\\atividade-poo\\views\\frmsobre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6AEB4109-EC94-422A-A8E9-DBEE1F801AAD}|Atividade-POO.csproj|C:\\Users\\Unifafibe\\Documents\\GitHub\\Atividade-POO\\Atividade-POO\\views\\frmsobre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6AEB4109-EC94-422A-A8E9-DBEE1F801AAD}|Atividade-POO.csproj|solutionrelative:views\\frmsobre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AEB4109-EC94-422A-A8E9-DBEE1F801AAD}|Atividade-POO.csproj|c:\\users\\unifafibe\\desktop\\programa\u00E7\u00E3o-orientada-objeto\\atividade-poo\\views\\frmvisualizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6AEB4109-EC94-422A-A8E9-DBEE1F801AAD}|Atividade-POO.csproj|C:\\Users\\Unifafibe\\Documents\\GitHub\\Atividade-POO\\Atividade-POO\\views\\frmvisualizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6AEB4109-EC94-422A-A8E9-DBEE1F801AAD}|Atividade-POO.csproj|solutionrelative:views\\frmvisualizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -52,11 +52,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Livro.cs",
-              "DocumentMoniker": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Atividade-POO\\Model\\Livro.cs",
+              "DocumentMoniker": "C:\\Users\\Unifafibe\\Documents\\GitHub\\Atividade-POO\\Atividade-POO\\Model\\Livro.cs",
               "RelativeDocumentMoniker": "Model\\Livro.cs",
-              "ToolTip": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Atividade-POO\\Model\\Livro.cs",
+              "ToolTip": "C:\\Users\\Unifafibe\\Documents\\GitHub\\Atividade-POO\\Atividade-POO\\Model\\Livro.cs",
               "RelativeToolTip": "Model\\Livro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAA0wEUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-23T22:35:15.858Z",
               "EditorCaption": ""
@@ -65,11 +65,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Editora.cs",
-              "DocumentMoniker": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Atividade-POO\\Model\\Editora.cs",
+              "DocumentMoniker": "C:\\Users\\Unifafibe\\Documents\\GitHub\\Atividade-POO\\Atividade-POO\\Model\\Editora.cs",
               "RelativeDocumentMoniker": "Model\\Editora.cs",
-              "ToolTip": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Atividade-POO\\Model\\Editora.cs",
+              "ToolTip": "C:\\Users\\Unifafibe\\Documents\\GitHub\\Atividade-POO\\Atividade-POO\\Model\\Editora.cs",
               "RelativeToolTip": "Model\\Editora.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-23T22:35:02.318Z",
               "EditorCaption": ""
@@ -78,11 +78,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Atividade-POO\\Model\\Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Unifafibe\\Documents\\GitHub\\Atividade-POO\\Atividade-POO\\Model\\Produto.cs",
               "RelativeDocumentMoniker": "Model\\Produto.cs",
-              "ToolTip": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Atividade-POO\\Model\\Produto.cs",
+              "ToolTip": "C:\\Users\\Unifafibe\\Documents\\GitHub\\Atividade-POO\\Atividade-POO\\Model\\Produto.cs",
               "RelativeToolTip": "Model\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-23T22:34:30.102Z",
               "EditorCaption": ""
@@ -91,62 +91,57 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Fornecedor.cs",
-              "DocumentMoniker": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Atividade-POO\\Model\\Fornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\Unifafibe\\Documents\\GitHub\\Atividade-POO\\Atividade-POO\\Model\\Fornecedor.cs",
               "RelativeDocumentMoniker": "Model\\Fornecedor.cs",
-              "ToolTip": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Atividade-POO\\Model\\Fornecedor.cs",
+              "ToolTip": "C:\\Users\\Unifafibe\\Documents\\GitHub\\Atividade-POO\\Atividade-POO\\Model\\Fornecedor.cs",
               "RelativeToolTip": "Model\\Fornecedor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T22:34:21.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T22:34:21.323Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "frmSobre.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Atividade-POO\\Views\\frmSobre.cs",
+              "DocumentMoniker": "C:\\Users\\Unifafibe\\Documents\\GitHub\\Atividade-POO\\Atividade-POO\\Views\\frmSobre.cs",
               "RelativeDocumentMoniker": "Views\\frmSobre.cs",
               "ToolTip": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Atividade-POO\\Views\\frmSobre.cs [Design]",
-              "RelativeToolTip": "Views\\frmSobre.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Atividade-POO\\Views\\frmSobre.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T22:33:49.891Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-09-23T22:33:49.891Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "frmVisualizacao.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Atividade-POO\\Views\\frmVisualizacao.cs",
+              "DocumentMoniker": "C:\\Users\\Unifafibe\\Documents\\GitHub\\Atividade-POO\\Atividade-POO\\Views\\frmVisualizacao.cs",
               "RelativeDocumentMoniker": "Views\\frmVisualizacao.cs",
               "ToolTip": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Atividade-POO\\Views\\frmVisualizacao.cs [Design]",
-              "RelativeToolTip": "Views\\frmVisualizacao.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Atividade-POO\\Views\\frmVisualizacao.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T22:33:40.208Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-09-23T22:33:40.208Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "frmCadastro.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Atividade-POO\\Views\\frmCadastro.cs",
+              "DocumentMoniker": "C:\\Users\\Unifafibe\\Documents\\GitHub\\Atividade-POO\\Atividade-POO\\Views\\frmCadastro.cs",
               "RelativeDocumentMoniker": "Views\\frmCadastro.cs",
               "ToolTip": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Atividade-POO\\Views\\frmCadastro.cs [Design]",
-              "RelativeToolTip": "Views\\frmCadastro.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Atividade-POO\\Views\\frmCadastro.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T22:33:24.479Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-09-23T22:33:24.479Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "frmPrincipal.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Atividade-POO\\Views\\frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Unifafibe\\Documents\\GitHub\\Atividade-POO\\Atividade-POO\\Views\\frmPrincipal.cs",
               "RelativeDocumentMoniker": "Views\\frmPrincipal.cs",
               "ToolTip": "C:\\Users\\Unifafibe\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Atividade-POO\\Views\\frmPrincipal.cs [Design]",
-              "RelativeToolTip": "Views\\frmPrincipal.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\Programa\u00E7\u00E3o-Orientada-Objeto\\Atividade-POO\\Views\\frmPrincipal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T22:32:59.539Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-09-23T22:32:59.539Z"
             }
           ]
         }
